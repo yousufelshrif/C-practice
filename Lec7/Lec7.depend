@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1661183560 source:c:\users\yousuf\desktop\c\lec7\main.c
+	"header_fun.h"
+
+1661183480 source:c:\users\yousuf\desktop\c\lec7\fun.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header_fun.h"
+
+1661182819 c:\users\yousuf\desktop\c\lec7\header_fun.h
+
