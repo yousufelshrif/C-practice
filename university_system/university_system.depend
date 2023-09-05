@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1661728608 source:c:\users\yousuf\desktop\c projects\university_system\simpledb.c
+	"SimpleDB.h"
+
+1661715362 c:\users\yousuf\desktop\c projects\university_system\simpledb.h
+	<stdlib.h>
+
+1661728978 source:c:\users\yousuf\desktop\c projects\university_system\main.c
+	"SimpleDB.h"
+
+1661728608 source:c:\users\yousuf\desktop\cprojects\university_system\simpledb.c
+	"SimpleDB.h"
+
+1661715362 c:\users\yousuf\desktop\cprojects\university_system\simpledb.h
+	<stdlib.h>
+
