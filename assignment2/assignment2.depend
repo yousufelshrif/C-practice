@@ -1,9 +1,0 @@
-# depslib dependency file v1.0
-1584205420 source:c:\users\yousuf\desktop\c\assignment2\main.c
-	<stdio.h>
-	<stdlib.h>
-
-1660079402 source:c:\users\yousuf\desktop\c\assignment2\mathlib.c
-	<stdio.h>
-	<stdlib.h>
-
